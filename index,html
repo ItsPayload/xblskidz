@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="shortcut icon" href="images/favicon.ico" />
+	<title>XblSkidz.tk</title>
+	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" href="css/flashing_text.css">
+	<link rel="stylesheet" type="text/css" href="css/buttons.css">
+	<link rel="stylesheet" type="text/css" href="css/backgrounds.css">
+	<link rel="stylesheet" type="text/css" href="css/nav_bar.css">
+	<style>
+		a { color: #E3E4FA; } /* CSS link color */
+  </style>
+</head>
+<body>	
+
+	<ul>
+		<li><a class="active" href="http://www.xblskidz.tk/">Home</a></li>
+		<li><a href="http://www.xblskidz.tk/skidz/index.html">Skidz</a></li>
+		<li><a href="http://www.xblskidz.tk/programs/index.html">Programs</a></li>
+		<li><a href="http://www.xblskidz.tk/programs/stressers/udp.php">UDP Stresser</a></li>
+		<li><a href="http://www.xblskidz.tk/programs/stressers/tcp.php">TCP Stresser</a></li>
+		<li style="float:right"><flashing>XblSkidz</flashing></li>
+	</ul>
+		
+	<main>
+		<h1>Created By Payload</h1>
+		<h1>Cooming Soon</h1>
+		<h1>Updates On The Site At <a href="http://www.leetogs.tech">LeetOgs.tech</a></h1>
+	</main>
+	
+</body>
+</html>
